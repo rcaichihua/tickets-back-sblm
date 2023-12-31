@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSBLM.API", "TicketSBLM.API\TicketSBLM.API.csproj", "{99F3B184-BBE7-4342-AE21-DBD78B878430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSBLM.Entities", "TicketSBLM.Entities\TicketSBLM.Entities.csproj", "{6FCD8F1B-58CE-4569-AA94-D37C4485DC90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{99F3B184-BBE7-4342-AE21-DBD78B878430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99F3B184-BBE7-4342-AE21-DBD78B878430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99F3B184-BBE7-4342-AE21-DBD78B878430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCD8F1B-58CE-4569-AA94-D37C4485DC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCD8F1B-58CE-4569-AA94-D37C4485DC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCD8F1B-58CE-4569-AA94-D37C4485DC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCD8F1B-58CE-4569-AA94-D37C4485DC90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
